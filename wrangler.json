@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "holy-breeze-ea8b",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "f912b675-2c50-4b4d-b07f-b91908a71963",
+      "database_name": "autumn-cake-268d-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
